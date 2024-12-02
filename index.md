@@ -3,7 +3,9 @@
 ``` javascript
 var myVar = "Waddup y'all!";
 ```
-
+- [ ] Learn Cloud
+- [ ] Become a Cloud Engineer
+- [ ] World Domination
 
 
 
